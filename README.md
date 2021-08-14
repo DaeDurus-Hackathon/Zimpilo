@@ -43,7 +43,7 @@
 2. Run npm install.
 3. Run nodemon.
 4. To enable video calling, run “peerjs --port 3001”
-
+5. To run SMS service, add fast2sms API key as environment variable (recommended step to avoid any unnecessary errors)
 
 ## What's next for Zimpilo
 We are planning to add- 
@@ -54,5 +54,5 @@ We are planning to add-
 services.
 - We will add functionality to directly import data from various
 health related electronic devices to our database.
--Currently Zimpilo connects the database of hospitals within a city. We are trying to increase our reach and will be developing our database further to handle atomic data.
+- Currently Zimpilo connects the database of hospitals within a city. We are trying to increase our reach and will be developing our database further to handle atomic data.
 
