@@ -42,7 +42,7 @@ var indexRoutes = require("./routes/indexRoutes.js"),
   miscRoutes = require("./routes/miscRoutes"),
   videoCallRoute = require("./videocall/videoRoutes"),
   paymentRoutes = require("./routes/paymentRoutes");
-  seedDB = require("./seeds");
+//   seedDB = require("./seeds");
 
 
 // seedDB();
