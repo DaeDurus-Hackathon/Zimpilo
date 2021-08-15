@@ -45,6 +45,13 @@
 4. To enable video calling, run “peerjs --port 3001”
 5. To run SMS service, add fast2sms API key as environment variable (recommended step to avoid any unnecessary errors)
 
+## Few Insights
+![Landing Page](/assets/images/READMEimages/landingPage.jpeg)
+
+![Dashboard Page](/assets/images/READMEimages/dashboard.jpeg)
+
+![Donation Index Page](/assets/images/READMEimages/organDonationIndex.jpeg)
+
 ## What's next for Zimpilo
 We are planning to add- 
 - A Notification Alert System
