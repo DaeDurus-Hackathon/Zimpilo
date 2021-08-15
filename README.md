@@ -54,6 +54,8 @@
 
 ## What's next for Zimpilo
 We are planning to add- 
+- Efficient donation system
+- Assiting hospitals and bridging communication gaps between them
 - A Notification Alert System
 - Live tracking
 - Portal to Order Medicines from nearby Medical Stores
