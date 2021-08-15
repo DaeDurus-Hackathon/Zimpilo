@@ -44,9 +44,18 @@ Zimpilo helps users to interact with doctors, take appointment, save medical rec
 ## How To Run
 1. Clone the directory from the github repository.
 2. Run npm install.
-3. Run nodemon.
-4. To enable video calling, run “peerjs --port 3001”
-5. To run SMS service, add fast2sms API key as environment variable (recommended step to avoid any unnecessary errors)
+```
+npm i
+```
+4. Run nodemon.
+```
+nodemon
+```
+6. To enable video calling, run “peerjs --port 3001”
+```
+peerjs --port 3001
+```
+8. To run SMS service, add fast2sms API key as environment variable (recommended step to avoid any unnecessary errors)
 
 ## Few Insights
 ![Landing Page](/assets/images/READMEimages/landingPage.jpeg)
