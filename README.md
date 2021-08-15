@@ -8,6 +8,9 @@
 - Lockdown has also limited communication between hospitals which are operating on the traditional methods data storage.
 - To address the above stated problems, we have decided to build an online platform for the healthcare services.
 
+## Problem it solves
+Zimpilo helps users to interact with doctors, take appointment, save medical records online and without any human contact. with addition to the above, it also enables users to register for blood and organ donation. Moreover, for hospital administrators it bridges the communication gap between different hospitals and allows them to ask or answer different request based on hospital needs.
+
 
 ## What it does
 - Prompt medical attention
